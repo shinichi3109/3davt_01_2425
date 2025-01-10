@@ -1,0 +1,10 @@
+torch
+torchvision
+Pillow                # PIL
+scikit-image          #skimage
+tqdm
+opencv-python         # cv2
+trimesh
+PyOpenGL
+ffmpeg
+three
